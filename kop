@@ -1,1 +1,93 @@
+#EXTM3U
+
+# ─────────── Movies───────────
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://imglink.cc/cdn/E86bN6IAxl.jpg", Goldmines
+https://cdn-2.pishow.tv/live/1459/master.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://imglink.cc/cdn/E86bN6IAxl.jpg", Goldmines Movies
+https://cdn-2.pishow.tv/live/1461/master.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://imglink.cc/cdn/cScI5tEUjV.png", Hindi Classic 24
+https://vods2.aynaott.com/hindimovies/index.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://imglink.cc/cdn/cScI5tEUjV.png", B4U Movies
+https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
+
+
+
+# ─────────── Entertainment───────────
+
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://imglink.cc/cdn/3TXPVSGzx5.png", Star Jalsha
+https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
+
+
+# ───────────  Bangladesh───────────
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://imglink.cc/cdn/1_dUKmt1Oe.png", G Series Drama
+https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
+
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/mCwss66N/Asian-TV.png",Asian TV
+https://mtlivestream.com/hls/asian/ytlive/index.m3u8
+
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/5X1JmFbF/Bangla-Vision.png",Bangla Vision
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/1715-audio_113452_eng=113200-video=1181200.m3u8
+
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/v65cfQ96/Channel-24.png",Channel 24
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703-audio_113332_eng=113200-video=2202800.m3u8
+
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/Xxrdnxkp/Channel9-HD.png",Channel 9 HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/1729-audio_113592_eng=113200-video=1181200.m3u8
+
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/Vp2HKT0s/Channel-S-TV.png",Channel S TV
+https://app.ncare.live/live-orgin/channels.stream/live-orgin/channels.stream/chunks.m3u8
+
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/TMKLMXs9/DBC-News.png",DBC News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/DPZrfqzr/Ekattor-TV-HD.png",Ekattor TV HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705.m3u8
+
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/cc5rftrN/Gazi-TV.png",GTV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/KpRt3cT5/Jago-News-24.png",Jago News 24
+https://app.ncare.live/live-orgin/jagonews24.stream/live-orgin/jagonews24.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/S7c6STRZ/Maasranga-TV.png",Maasranga TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722.m3u8
+
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://imglink.cc/cdn/B1Dn0E5UKs.png", Movie Bangla
+http://alvetv.com/moviebanglatv/8080/index.m3u8
+
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/gLx9fX5N/News-24.png",News 24
+https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
+
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://imglink.cc/cdn/D8KxMc9soN.png",NTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-video=1181200.m3u8
+
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://imglink.cc/cdn/r7W0ZbQHU9.png",Somoy TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/cXTjmmtP/Star-News.png",Star News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1710-audio_113402_eng=113200-video=1181200.m3u8
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://imglink.cc/cdn/qx2W3uKGsz.png", SA Tv
+https://tvsen6.aynaott.com/satv/index.m3u8?e=1779283757&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=336f19de5e4aacae753d7524d86d1a89
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://imglink.cc/cdn/rw8iAU9ZcB.jpg", Thikana
+https://5dd3981940faa.streamlock.net:443/thikanatv/thikanatv/playlist.m3u8
 
