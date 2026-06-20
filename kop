@@ -3,13 +3,14 @@
 https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://imglink.cc/cdn/E86bN6IAxl.jpg", Zee Action
-http:\\103.175.73.12:8080\live\270\270_0.m3u8
+http://103.175.73.12:8080/live/270/270_0.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://imglink.cc/cdn/E86bN6IAxl.jpg", Goldmines
 https://cdn-2.pishow.tv/live/1459/master.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://imglink.cc/cdn/E86bN6IAxl.jpg", Star Gold Thrill
-http:\\103.253.18.58:8000\play\a00o
+http://103.253.18.58:8000/play/a00o
+
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://imglink.cc/cdn/E86bN6IAxl.jpg", Star Gold select
 http:\\202.70.146.135:8000\play\a068\index.m3u8
@@ -57,13 +58,13 @@ https:\\airtelapp.shemaroo.com\shemarootv\smil:shemarootvadp.smil\playlist.m3u8
 https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://imglink.cc/cdn/3TXPVSGzx5.png", Zee Bangla
-http:\\103.159.180.34:5001\live\625.m3u8
+http://103.159.180.34:5001/live/625.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://imglink.cc/cdn/3TXPVSGzx5.png", Sun Bangla
-http:\\103.159.180.34:5001\live\1669.m3u8
+http://103.159.180.34:5001/ive/1669.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://imglink.cc/cdn/3TXPVSGzx5.png", Sony Sab
-http:\\202.70.146.135:8000\play\a025\index.m3u8
+http://202.70.146.135:8000/play/a025/index.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://imglink.cc/cdn/3TXPVSGzx5.png", Colors HD
 http:\\202.70.146.135:8000\play\a00b\index.m3u8
