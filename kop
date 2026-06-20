@@ -2,6 +2,10 @@
 
 # ─────────── Movies───────────
 
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://imglink.cc/cdn/E86bN6IAxl.jpg", Zee Action
+http:\\103.175.73.12:8080\live\270\270_0.m3u8
+
 #EXTINF:-1 group-title="Movies" tvg-logo="https://imglink.cc/cdn/E86bN6IAxl.jpg", Goldmines
 https://cdn-2.pishow.tv/live/1459/master.m3u8
 
@@ -17,6 +21,14 @@ https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://imglink.cc/cdn/uZtiXpPz29.png", SRK Tv
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://imglink.cc/cdn/uZtiXpPz29.png", Star Gold
+http:\\202.70.146.135:8000\play\a02a\index.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://imglink.cc/cdn/uZtiXpPz29.png", Zee Cinema
+http:\\103.159.180.34:5001\live\165.m3u8
+
+
+
 
 
 # ─────────── Entertainment───────────
@@ -24,6 +36,13 @@ https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://imglink.cc/cdn/3TXPVSGzx5.png", Star Jalsha
 https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
+
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://imglink.cc/cdn/3TXPVSGzx5.png", Sony Sab
+http:\\202.70.146.135:8000\play\a025\index.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://imglink.cc/cdn/3TXPVSGzx5.png", Colors HD
+http:\\202.70.146.135:8000\play\a00b\index.m3u8
 
 
 
@@ -35,6 +54,8 @@ https://cdn-4.pishow.tv/live/1143/master.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://imglink.cc/cdn/IYDn_LwwiV.png", Bengali Beat
 https://tplay.live/originals/bengali-beats/index.m3u8
 
+#EXTINF:-1 group-title="Music" tvg-logo="https://imglink.cc/cdn/IYDn_LwwiV.png", India music
+http:\\103.159.180.34:5001\live\250.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://imglink.cc/cdn/IYDn_LwwiV.png", 9X Tashan
 https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8
@@ -55,6 +76,9 @@ https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://i.ibb.co.com/5xSF5mzh/Gopal-Bhar-animated-TV-series-title-card.jpg", Gopal Bhar TV
 https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="Cartoon" tvg-logo="https://i.ibb.co.com/5xSF5mzh/Gopal-Bhar-animated-TV-series-title-card.jpg", Nick Hindi
+http:\\202.70.146.135:8000\play\a04c\index.m3u8
 
 
 
